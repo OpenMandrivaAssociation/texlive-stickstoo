@@ -1,6 +1,6 @@
 Name:		texlive-stickstoo
 Version:	60793
-Release:	1
+Release:	2
 Summary:	A reworking of STIX2
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stickstoo
