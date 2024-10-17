@@ -3,7 +3,7 @@ Version:	72368
 Release:	1
 Summary:	A reworking of STIX2
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/stickstoo
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/stickstoo
 License:	ofl lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/stickstoo.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/stickstoo.doc.r%{version}.tar.xz
